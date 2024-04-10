@@ -1,9 +1,9 @@
-#oh, hi there, friend!
+# oh, hi there, friend!
 ## *didn't see you there. do come in!*
 
 ### i’m:
 * charlotte
-* allergic to capital letters outside of academic writing
+* allergic to capital letters outside of academic writing and acronyms
 * from upstate new york
 * currently pursuing my MLIS at drexel
 * vaguely familiar with github and version control after having to use it for a game design bootcamp in 2022 (hence the username)
